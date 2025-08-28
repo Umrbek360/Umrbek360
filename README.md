@@ -38,11 +38,3 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
-
----
-
-## 📊 GitHub Statistikasi
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Umrbek360&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umrbek360&layout=compact&theme=tokyonight)
