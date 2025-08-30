@@ -1,7 +1,11 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nodir+Ustoz!;IT+Mentor+%26+Teacher;Mentor+in+Programming+and+IT" alt="Typing SVG" />
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+umtbr;IT+Student+%26+Learner;Learning+Programming+and+IT)
+
 </div>
+
 
 # 👋 Salom, men [Umrbek]!
 
